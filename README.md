@@ -1,1 +1,1 @@
-ML project (decision tree) (iris - moons)
+ML project (decision tree - decision tree regressor) (iris - moons)

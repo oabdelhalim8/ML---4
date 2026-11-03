@@ -1,1 +1,1 @@
-ML project (decision tree - decision tree regressor) (iris - moons)
+ML project (decision tree - CART-decision tree regressor) (iris - moons)
